@@ -1,6 +1,6 @@
 # CS_classification
-#Solution cs_classification_end.ipynb
-#Use in GoogleColab or delete mounting with GoogleDrive in code
+Solution cs_classification_end.ipynb
+\nUse in GoogleColab or delete mounting with GoogleDrive in code
 Основные моменты решения: 
 Удвоен файл train.csv 
 Показатели игроков kill_death_difference подсчитаны где стоял 0, но была информация по смертям и убийствам
