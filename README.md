@@ -7,3 +7,6 @@ Use in GoogleColab or delete mounting with GoogleDrive in code
 Показатели игроков преобразованы в агрегированные командные, нормализованы
 Показатели команды kill_death и kill_round отброшены
 Найдены оптимальные значения классификаторов на кросс-валидации
+
+
+  Файлы prediction_1.csv, prediction_2.csv, prediction_3.csv - ПРОГНОЗЫ ДЛЯ test.csv
