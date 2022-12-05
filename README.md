@@ -16,4 +16,4 @@ Start in GoogleColab or delete mounting with GoogleDrive in cs_classification_en
 Найдены оптимальные значения классификаторов на кросс-валидации
 
 
-  Файлы prediction_1.csv, prediction_2.csv, prediction_3.csv - ПРОГНОЗЫ ДЛЯ test.csv
+  Файлы prediction_1.csv, prediction_2.csv, prediction_3.csv - ПРОГНОЗЫ для test.csv
