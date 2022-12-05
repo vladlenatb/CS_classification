@@ -1,7 +1,7 @@
 # CS_classification
-Solution cs_classification_end.ipynb
+Solution - cs_classification_end.ipynb
 
-Use in GoogleColab or delete mounting with GoogleDrive in code
+Start in GoogleColab or delete mounting with GoogleDrive in code
 
 Основные моменты решения: 
 
