@@ -5,7 +5,7 @@ Start in GoogleColab or delete mounting with GoogleDrive in cs_classification_en
 
 Основные моменты решения: 
 
-Удвоен файл train.csv 
+Тестовая выборка из test.csv увеличина в 2 раза, отзеркаливанием положений команд (первая,вторая) и who_won
 
 Показатели игроков kill_death_difference подсчитаны где стоял 0, но была информация по смертям и убийствам
 
